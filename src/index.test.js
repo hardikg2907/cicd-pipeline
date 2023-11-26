@@ -1,9 +1,8 @@
 // import files
-var add = require('./calculator/add')
-var subtract = require('./calculator/subtract')
-var multiply = require('./calculator/multiply')
-var divide = require('./calculator/divide')
-
+var add = require("./calculator/add");
+var subtract = require("./calculator/subtract");
+var multiply = require("./calculator/multiply");
+var divide = require("./calculator/divide");
 
 // Test Case 1 (Addition)
 test("Should add two numbers", () => {
